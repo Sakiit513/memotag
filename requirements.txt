@@ -1,0 +1,11 @@
+torch
+librosa
+numpy
+flask
+transformers
+huggingface_hub
+joblib
+gunicorn
+streamlit
+scikit-learn
+scipy
